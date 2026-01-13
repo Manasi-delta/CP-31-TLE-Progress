@@ -11,7 +11,8 @@ https://tle-eliminators.com/cp-sheet
 - Focus on core competitive programming concepts
 
 ## My Progress
-- 800 Rating: 26 / 31 solved ✅
+- 800 Rating: 31 / 31 solved ✅
+- 900 Rating: 5/31 solved ✅
 - Overall progress: In progress 🔄
 
 ## Learning Approach
