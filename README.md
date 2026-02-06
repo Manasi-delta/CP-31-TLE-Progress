@@ -13,7 +13,7 @@ https://tle-eliminators.com/cp-sheet
 ## My Progress
 - 800 Rating: 31 / 31 solved ✅
 - 900 Rating: 31/31 solved ✅
-- 1000 Rating: 11/31 solved ✅
+- 1000 Rating: 20/31 solved ✅
 - Overall progress: In progress 🔄
 
 ## Learning Approach
